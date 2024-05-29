@@ -1,0 +1,20 @@
+table
+{
+border-collapse: collapse;
+height: 30%;
+width: 50%;
+text-decoration: blue;
+}
+td,th
+{
+border: 2px solid grey;
+text-align: center;
+}
+body{
+    text-align: center;
+    background-image: url(image12.jpeg) ;
+    
+}
+.couleur{
+    background-color: lightblue ;
+}
